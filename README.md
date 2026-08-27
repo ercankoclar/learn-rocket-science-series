@@ -20,7 +20,7 @@ The videos explain the concepts and development process, while this repository p
 | 05 | We are making and testing a rocket engine at home! | Watch on YouTube | - |
 | 06 | We Build and Launch Our Own Model Rocket! | Watch on YouTube | - |
 
-*Note: English translations of Episodes 03–06 are currently in progress.
+**Note:** English translations of Episodes 03–06 are currently in progress.
 
 ## 🛠️ Contents
 
