@@ -14,7 +14,7 @@ The videos explain the concepts and development process, while this repository p
 | Episode | Topic | Video | Files |
 |---|---|---|---|
 | 01 | [Are You Ready for the Exciting History of Rockets?](https://www.ercankoclar.com/en/2023/01/learning-rocket-science-1-history-importance-and-dangers-of-rockets-and-basic-information-about-rockets/) | [Watch on YouTube](https://youtu.be/54DqvfUQcTo) | no file |
-| 02 | [We’re Building the Tools Needed for Rocket Production](https://www.ercankoclar.com/en/2023/03/rocket-science-learning-2-manufacturing-the-electronic-and-mechanical-equipment-required-for-rocket-propellant/) | [Watch on YouTube](https://youtu.be/o9SjzNFH2G4) | [`02-topic-name/`](02-topic-name/) |
+| 02 | [We’re Building the Tools Needed for Rocket Production](https://www.ercankoclar.com/en/2023/03/rocket-science-learning-2-manufacturing-the-electronic-and-mechanical-equipment-required-for-rocket-propellant/) | [Watch on YouTube](https://youtu.be/o9SjzNFH2G4) | [`02-topic-name/`](02-rocket-production-equipment) |
 | 03 | Making Rocket Propellant from Sugar! (The English translation is in progress.)| Watch on YouTube (The English translation is in progress.)
 | 04 | Making Your Own Rocket Engine Mold: Simple and Effective Methods  (The English translation is in progress.)| Watch on YouTube (The English translation is in progress.)
 | 05 | We are making and testing a rocket engine at home! (The English translation is in progress.) | Watch on YouTube (The English translation is in progress.)
